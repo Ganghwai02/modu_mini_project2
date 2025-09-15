@@ -16,4 +16,4 @@
 ![Image](https://github.com/user-attachments/assets/7e1ae888-6ec0-4f2a-b88e-5227bf695f99)
 
 # 프로젝트 폴더 구조
-<img width="297" height="474" alt="Image" src="https://github.com/user-attachments/assets/ca51e293-c12c-45d2-88c8-ce8a4171b07a" />
+<img width="298" height="774" alt="Image" src="https://github.com/user-attachments/assets/2e0c0f61-5784-466f-bdfb-ca71cfdbc024" />
