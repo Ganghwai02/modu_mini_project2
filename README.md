@@ -51,27 +51,14 @@
 <img width="298" height="774" alt="Image" src="https://github.com/user-attachments/assets/2e0c0f61-5784-466f-bdfb-ca71cfdbc024" />
 
 
-### 💻 설치 및 실행 방법
-### 1. 프로젝트 클론하기
+💻 설치 및 실행 방법
+1. 프로젝트 클론하기
 터미널을 열고 아래 명령어를 입력하여 프로젝트를 로컬 컴퓨터에 복제합니다.
-```bash
-git clone [https://github.com/Ganghwai02/modu_mini_project2.git]
+git clone https://github.com/Ganghwai02/modu_mini_project2.git
 cd modu_mini_project2
 
-
-
-
-
-
-
-
-
-
-
-
-
-### 2.백엔드 설정 (FastAPI)
-# 프로젝트 폴더 내의 back 디렉터리로 이동하여 백엔드 환경을 설정합니다.
+2.백엔드 설정 (FastAPI)
+프로젝트 폴더 내의 back 디렉터리로 이동하여 백엔드 환경을 설정합니다.
 ```bash
 cd backend
 pip install -r requirements.txt
@@ -81,9 +68,9 @@ python main.py
 - 서버는 http://127.0.0.1:8000에서 실행됩니다.
 
 3. 프론트엔드 설정 (React)
-# 백엔드와는 별개로, front 디렉터리에서 프론트엔드를 실행해야 합니다.
+백엔드와는 별개로, front 디렉터리에서 프론트엔드를 실행해야 합니다.
 ```bash
-# 터미널에서 상위 폴더로 이동
+터미널에서 상위 폴더로 이동
 cd ../front
 npm install
 npm start
