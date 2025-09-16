@@ -66,6 +66,7 @@ python main.py
 - pip install -r requirements.txt 명령은 프로젝트에 필요한 모든 파이썬 라이브러리(FastAPI, uvicorn, pydantic 등)를 자동으로 설치해줍니다.
 
 - 서버는 http://127.0.0.1:8000에서 실행됩니다.
+
 ```
 3. 프론트엔드 설정 (React)
 백엔드와는 별개로, front 디렉터리에서 프론트엔드를 실행해야 합니다.
