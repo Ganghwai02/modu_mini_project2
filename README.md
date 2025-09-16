@@ -17,3 +17,12 @@
 
 # 프로젝트 폴더 구조
 <img width="298" height="774" alt="Image" src="https://github.com/user-attachments/assets/2e0c0f61-5784-466f-bdfb-ca71cfdbc024" />
+
+
+# 설치 및 실행
+
+" pip install fastapi uvicorn "
+
+" uvicorn main:app --reload "
+
+![데모 이미지](https://i.imgur.com/your-image-link.png)
