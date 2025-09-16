@@ -51,14 +51,15 @@
 <img width="298" height="774" alt="Image" src="https://github.com/user-attachments/assets/2e0c0f61-5784-466f-bdfb-ca71cfdbc024" />
 
 
-# 💻 설치 및 실행 방법
-# 1. 프로젝트 클론하기
+### 💻 설치 및 실행 방법
+1. 프로젝트 클론하기
 터미널을 열고 아래 명령어를 입력하여 프로젝트를 로컬 컴퓨터에 복제합니다.
+```bash
 git clone https://github.com/Ganghwai02/modu_mini_project2.git
 cd modu_mini_project2
 
-# 2.백엔드 설정 (FastAPI)
-# 프로젝트 폴더 내의 back 디렉터리로 이동하여 백엔드 환경을 설정합니다.
+2.백엔드 설정 (FastAPI)
+프로젝트 폴더 내의 back 디렉터리로 이동하여 백엔드 환경을 설정합니다.
 ```bash
 cd backend
 pip install -r requirements.txt
