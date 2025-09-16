@@ -51,14 +51,14 @@
 <img width="298" height="774" alt="Image" src="https://github.com/user-attachments/assets/2e0c0f61-5784-466f-bdfb-ca71cfdbc024" />
 
 
-💻 설치 및 실행 방법
-1. 프로젝트 클론하기
+# 💻 설치 및 실행 방법
+# 1. 프로젝트 클론하기
 터미널을 열고 아래 명령어를 입력하여 프로젝트를 로컬 컴퓨터에 복제합니다.
 git clone https://github.com/Ganghwai02/modu_mini_project2.git
 cd modu_mini_project2
 
-2.백엔드 설정 (FastAPI)
-프로젝트 폴더 내의 back 디렉터리로 이동하여 백엔드 환경을 설정합니다.
+# 2.백엔드 설정 (FastAPI)
+# 프로젝트 폴더 내의 back 디렉터리로 이동하여 백엔드 환경을 설정합니다.
 ```bash
 cd backend
 pip install -r requirements.txt
@@ -67,7 +67,7 @@ python main.py
 
 - 서버는 http://127.0.0.1:8000에서 실행됩니다.
 
-3. 프론트엔드 설정 (React)
+# 3. 프론트엔드 설정 (React)
 백엔드와는 별개로, front 디렉터리에서 프론트엔드를 실행해야 합니다.
 ```bash
 터미널에서 상위 폴더로 이동
@@ -78,13 +78,13 @@ npm start
 - npm start 명령은 개발 서버를 시작하며, 웹 브라우저가 자동으로 열려 http://localhost:3000에서 애플리케이션을 볼 수 있습니다.
 
 
-프로젝트 하면서 느낀점🤔
+# 프로젝트 하면서 느낀점🤔
 
 - ai 도움을 많이 받았는데, "아! 이런방식으로도 코드를 작성하는구나"라는 생각도 들며, 신기하기도 했고, 코드뿐만 아니라 백엔드엔 어떤 폴더 , 파일이 필요하고? 프론트엔 어떤 폴더 , 파일이 필요한지를 확실하게 깨닳고 내가 개발하는데 있어서 어떤부분이 부족하고, 개발 코드 숙지가 잘 되어있는지를 알아가는 그러한 기간이었습니다!
 - 아쉬운점을 말씀드리자면 , 일단 UI나 UX 부분은 만족스럽지만 안정성이 조금 떨어지는게 보여서 아쉬운것 같고, 면접을 보는 과정에서 ai 질문을 받는것과 사용자가 답변을 했을때에 피드백을 받는부분?에서 좀 부족한 느낌을 받았습니다.
 - 제가 원하는 수준은 아니었지만, 그래도 어느정도 비슷하게 잘 구현이 된것같아서 뿌듯합니다.
 
 ✍️ 개발자
-이름: Ganghwai
+이름: Ganghwai02
 
 Github: https://github.com/Ganghwai02/modu_mini_project2.git
