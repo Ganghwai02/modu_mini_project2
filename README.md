@@ -52,8 +52,8 @@
 
 
 ### 💻 설치 및 실행 방법
-1. 프로젝트 클론하기
-터미널을 열고 아래 명령어를 입력하여 프로젝트를 로컬 컴퓨터에 복제합니다.
+# 1. 프로젝트 클론하기
+# 터미널을 열고 아래 명령어를 입력하여 프로젝트를 로컬 컴퓨터에 복제합니다.
 ```bash
 git clone https://github.com/Ganghwai02/modu_mini_project2.git
 cd modu_mini_project2
